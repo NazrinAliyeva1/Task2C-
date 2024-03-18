@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\MyTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\MyTask2.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\MyTask2.AssemblyInfo.cs
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\MyTask2.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\MyTask2\MyTask2\bin\Debug\net6.0\MyTask2.exe
+C:\Users\99455\source\repos\MyTask2\MyTask2\bin\Debug\net6.0\MyTask2.deps.json
+C:\Users\99455\source\repos\MyTask2\MyTask2\bin\Debug\net6.0\MyTask2.runtimeconfig.json
+C:\Users\99455\source\repos\MyTask2\MyTask2\bin\Debug\net6.0\MyTask2.dll
+C:\Users\99455\source\repos\MyTask2\MyTask2\bin\Debug\net6.0\MyTask2.pdb
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\MyTask2.dll
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\refint\MyTask2.dll
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\MyTask2.pdb
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\MyTask2.genruntimeconfig.cache
+C:\Users\99455\source\repos\MyTask2\MyTask2\obj\Debug\net6.0\ref\MyTask2.dll
